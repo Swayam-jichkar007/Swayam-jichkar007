@@ -1,3 +1,4 @@
+<img align="center" src="Black Gradient Minimalistic Future Technology YouTube Banner.png">
 <h1 align="center">Hi 👋, I'm Swayam Jichkar</h1>
 <h3 align="center">A passionate frontend web developer from India</h3>
 <img align="right" alt="Coder Boy" width="500" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJsKZVppBhshJBN6_RHp9luylwz4eQO4I8Tg&s">
